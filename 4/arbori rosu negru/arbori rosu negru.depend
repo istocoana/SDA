@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1667819272 source:c:\users\utilizator\desktop\arbori rosu negru\main.c
+	<stdlib.h>
+	<stdio.h>
+	"rb.c"
+
+1668058952 c:\users\utilizator\desktop\arbori rosu negru\rb.c
+	"rb.h"
+
+1668058962 c:\users\utilizator\desktop\arbori rosu negru\rb.h
+
+1672304010 source:c:\users\utilizator\desktop\ie - algoritmi\4\arbori rosu negru\main.c
+	<stdlib.h>
+	<stdio.h>
+	"rb.c"
+
+1672304372 c:\users\utilizator\desktop\ie - algoritmi\4\arbori rosu negru\rb.c
+	"rb.h"
+
+1668058962 c:\users\utilizator\desktop\ie - algoritmi\4\arbori rosu negru\rb.h
+

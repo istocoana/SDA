@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1666088830 source:c:\users\utilizator\desktop\ie - algoritmi\lab 1 - cozi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"coada.c"
+
+1666088921 c:\users\utilizator\desktop\ie - algoritmi\lab 1 - cozi\coada.c
+	"coada.h"
+	<stdbool.h>
+
+1666071513 c:\users\utilizator\desktop\ie - algoritmi\lab 1 - cozi\coada.h
+	<stdbool.h>
+
+1673383741 source:c:\users\utilizator\desktop\ie - algoritmi\1\lab 1 - cozi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"coada.c"
+
+1673383821 c:\users\utilizator\desktop\ie - algoritmi\1\lab 1 - cozi\coada.c
+	"coada.h"
+	<stdbool.h>
+	<stdlib.h>
+
+1671713852 c:\users\utilizator\desktop\ie - algoritmi\1\lab 1 - cozi\coada.h
+	<stdbool.h>
+	<stdbool.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669724140 source:c:\users\utilizator\desktop\ie - algoritmi\7\cut_tod\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"cut_rod.c"
+
+1669725895 c:\users\utilizator\desktop\ie - algoritmi\7\cut_tod\cut_rod.c
+	"cut_rod.h"
+
+1669624121 c:\users\utilizator\desktop\ie - algoritmi\7\cut_tod\cut_rod.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1674023670 source:c:\users\utilizator\desktop\ie - algoritmi\9\graf\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_adiacenta.c"
+	<time.h>
+
+1674023742 c:\users\utilizator\desktop\ie - algoritmi\9\graf\lista_adiacenta.c
+	"lista_adiacenta.h"
+	<stdio.h>
+	<limits.h>
+	<stdlib.h>
+
+1674023670 c:\users\utilizator\desktop\ie - algoritmi\9\graf\lista_adiacenta.h
+

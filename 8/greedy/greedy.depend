@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1670330176 source:c:\users\utilizator\desktop\ie - algoritmi\8\greedy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"greedy.c"
+
+1669913285 c:\users\utilizator\desktop\ie - algoritmi\8\greedy\greedy.c
+	"greedy.h"
+
+1669888283 c:\users\utilizator\desktop\ie - algoritmi\8\greedy\greedy.h
+

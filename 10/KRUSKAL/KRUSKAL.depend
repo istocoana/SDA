@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1671453777 source:c:\users\utilizator\desktop\ie - algoritmi\10\kruskal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"kruskal.c"
+	<time.h>
+
+1671453874 c:\users\utilizator\desktop\ie - algoritmi\10\kruskal\kruskal.c
+	"kruskal.h"
+	<stdio.h>
+	<limits.h>
+	<stdlib.h>
+
+1671453377 c:\users\utilizator\desktop\ie - algoritmi\10\kruskal\kruskal.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668515705 source:c:\users\utilizator\desktop\ie - algoritmi\5\insertion+merge_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion+merge_sort.c"
+
+1668515200 c:\users\utilizator\desktop\ie - algoritmi\5\insertion+merge_sort\insertion+merge_sort.c
+	"insertion+merge.h"
+
+1668515200 c:\users\utilizator\desktop\ie - algoritmi\5\insertion+merge_sort\insertion+merge.h
+

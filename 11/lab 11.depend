@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1673247971 source:c:\users\utilizator\desktop\ie - algoritmi\lab 11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bd.c"
+
+1673247978 c:\users\utilizator\desktop\ie - algoritmi\lab 11\bd.c
+	<limits.h>
+	"bd.h"
+
+1673247971 c:\users\utilizator\desktop\ie - algoritmi\lab 11\bd.h
+

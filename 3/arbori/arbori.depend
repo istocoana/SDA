@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667305883 source:c:\users\utilizator\desktop\ie - algoritmi\3\arbori\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbori.c"
+
+1667237079 c:\users\utilizator\desktop\ie - algoritmi\3\arbori\arbori.c
+	"arbori.h"
+
+1667236975 c:\users\utilizator\desktop\ie - algoritmi\3\arbori\arbori.h
+

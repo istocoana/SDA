@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672659198 source:c:\users\utilizator\desktop\ie - algoritmi\7\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.c"
+
+1672657799 c:\users\utilizator\desktop\ie - algoritmi\7\matrix\matrix.c
+	"matrix.h"
+
+1672657518 c:\users\utilizator\desktop\ie - algoritmi\7\matrix\matrix.h
+

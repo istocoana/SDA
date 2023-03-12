@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1668841008 source:c:\users\utilizator\desktop\ie - algoritmi\6\divide_et_impera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"divide_et_impera.c"
+
+1669111870 c:\users\utilizator\desktop\ie - algoritmi\6\divide_et_impera\divide_et_impera.c
+	"divide_et_impera.h"
+
+1668841461 c:\users\utilizator\desktop\ie - algoritmi\6\divide_et_impera\divide_et_impera.h
+

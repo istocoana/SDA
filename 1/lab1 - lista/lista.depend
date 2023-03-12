@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666442467 source:c:\users\utilizator\desktop\ie - algoritmi\lista\main.c
+	<stdio.h>
+	"lista.c"
+
+1666442375 c:\users\utilizator\desktop\ie - algoritmi\lista\lista.c
+	"lista.h"
+	<stdlib.h>
+
+1666442387 c:\users\utilizator\desktop\ie - algoritmi\lista\lista.h
+

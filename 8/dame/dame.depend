@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672744031 source:c:\users\utilizator\desktop\ie - algoritmi\8\dame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dame.c"
+
+1669915866 c:\users\utilizator\desktop\ie - algoritmi\8\dame\dame.c
+	"dame.h"
+
+1669915718 c:\users\utilizator\desktop\ie - algoritmi\8\dame\dame.h
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1666031444 source:c:\users\utilizator\desktop\ie - algoritmi\lab1 - stive\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stiva.c"
+
+1666032105 c:\users\utilizator\desktop\ie - algoritmi\lab1 - stive\stiva.c
+	"sitva.h"
+
+1666032096 c:\users\utilizator\desktop\ie - algoritmi\lab1 - stive\sitva.h
+
+1666508855 source:c:\users\utilizator\desktop\ie - algoritmi\1\lab1 - stive\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stiva.c"
+
+1666509111 c:\users\utilizator\desktop\ie - algoritmi\1\lab1 - stive\stiva.c
+	"sitva.h"
+	<stdbool.h>
+
+1666029544 c:\users\utilizator\desktop\ie - algoritmi\1\lab1 - stive\sitva.h
+	<stdbool.h>
+

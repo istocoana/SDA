@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668159163 source:c:\users\utilizator\desktop\sortare prin insertie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion.c"
+
+1668159270 c:\users\utilizator\desktop\sortare prin insertie\insertion.c
+	"insertion.h"
+
+1668159034 c:\users\utilizator\desktop\sortare prin insertie\insertion.h
+
+1668159163 source:c:\users\utilizator\desktop\ie - algoritmi\5\sortare prin insertie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion.c"
+
+1668159270 c:\users\utilizator\desktop\ie - algoritmi\5\sortare prin insertie\insertion.c
+	"insertion.h"
+
+1668159034 c:\users\utilizator\desktop\ie - algoritmi\5\sortare prin insertie\insertion.h
+

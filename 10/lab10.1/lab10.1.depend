@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1673259955 source:c:\users\utilizator\desktop\ie - algoritmi\10\lab10.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lab10.1.c"
+	<time.h>
+
+1673260209 c:\users\utilizator\desktop\ie - algoritmi\10\lab10.1\lab10.1.c
+	<stdlib.h>
+	"lab10.1.h"
+	<stdio.h>
+	<limits.h>
+
+1673259955 c:\users\utilizator\desktop\ie - algoritmi\10\lab10.1\lab10.1.h
+

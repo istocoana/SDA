@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1666511629 source:c:\users\utilizator\desktop\ie - algoritmi\hashtable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.c"
+
+1666511845 c:\users\utilizator\desktop\ie - algoritmi\hashtable\hash.c
+	"hash.h"
+
+1666445457 c:\users\utilizator\desktop\ie - algoritmi\hashtable\hash.h
+
+1672135147 source:c:\users\utilizator\desktop\ie - algoritmi\2\hashtable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.c"
+
+1666508511 c:\users\utilizator\desktop\ie - algoritmi\2\hashtable\hash.c
+	"hash.h"
+
+1666441857 c:\users\utilizator\desktop\ie - algoritmi\2\hashtable\hash.h
+
